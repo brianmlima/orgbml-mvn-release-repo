@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.bml</groupId>
+  <artifactId>org.bml</artifactId>
+  <versioning>
+    <release>2.1.6</release>
+    <versions>
+      <version>2.1.6</version>
+    </versions>
+    <lastUpdated>20170525000400</lastUpdated>
+  </versioning>
+</metadata>
